@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>introduction to html</title>
+</head>
+<body>
+<!-- heading tags -->
+    <h1 id="s">My Frist Heading</h1>
+    <h2>My Frist Heading</h2>
+    <h3>My Frist Heading</h3>
+    <h4>My Frist Heading</h4>
+    <h5>My Frist Heading</h5>
+    <h6>My Frist Heading</h6>
+<!-- paragraph tag -->
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur quidem, blanditiis commodi libero asperiores et assumenda odit cumque quisquam enim reprehenderit recusandae harum quaerat fuga. Inventore dicta nemo laboriosam labore.</p>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Veniam dolor consequatur iure, beatae recusandae obcaecati architecto in. Officiis facere quis voluptatem numquam laudantium, soluta quam molestias hic, enim, ullam excepturi.</p>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Veniam dolor consequatur iure, beatae recusandae obcaecati architecto in. Officiis facere quis voluptatem numquam laudantium, soluta quam molestias hic, enim, ullam excepturi.</p>
+
+<!-- anchor tag -->
+ <h3> anchor tag </h3>
+<!--external link-->
+<a href="https://www.linkedin.com/">go to linkedin </a><br>
+<!--external tag with target-->
+    <a href="https://www.google.co.in/" target="_blank"> open google </a><br>
+<!--relative link-->
+    <a href="rltve.html"> open rltve page</a><br>
+<!--link to email-->
+    <a href="mailto:sample@gmail.com" title="sample@gmail.com">go to email</a><br>
+<!--link to phone number-->
+    <a href="tel:23548652" title="call to 5445165454"> call me</a><br>
+<!--internal linking-->
+    <a href="#s">link to main heading</a>
+</body>
+</html>
